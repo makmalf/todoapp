@@ -2,3 +2,4 @@
 $ composer install<br/>
 $ npm install<br/>
 $ npm run prod<br/>
+$ php artisan migrate:refresh --seed<br/>
