@@ -1,6 +1,6 @@
 # Some steps to get up and run the app
 
-Set up you database in .env file
+Set up your database in .env file
 _________________________
 $ composer install<br/>
 $ npm install<br/>
